@@ -7,6 +7,7 @@ A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http
 
 Test Test with a few github commits and make sure Jenkins runs and emails me again
 TESTING AGAIN ONCE 
+TESTIN %2
 
 This vulnerable app includes the following capabilities to experiment with: 
 * [Exploitable packages](#exploiting-the-vulnerabilities) with known vulnerabilities
